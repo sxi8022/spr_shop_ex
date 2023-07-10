@@ -7,7 +7,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @EnableScheduling
 @SpringBootApplication
-@EnableJpaAuditing
+// @EnableJpaAuditing
 public class MySelectShopApplication {
 
     public static void main(String[] args) {
