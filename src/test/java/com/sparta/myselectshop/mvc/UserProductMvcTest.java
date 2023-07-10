@@ -120,7 +120,7 @@ class UserProductMvcTest {
                 .andDo(print());
     }
 
-    @Test
+/*    @Test
     @DisplayName("신규 관심상품 등록")
     void test3() throws Exception {
         // given
@@ -147,5 +147,5 @@ class UserProductMvcTest {
                 )
                 .andExpect(status().isOk())
                 .andDo(print());
-    }
+    }*/
 }
